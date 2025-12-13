@@ -43,7 +43,7 @@
 - Correlation Analysis เพื่อศึกษาความสัมพันธ์ระหว่างตัวแปรสุขภาพกับการเกิดโรคเบาหวาน
 - Visualization Analysis (Boxplot, Histogram, Scatter Plot) เพื่อระบุแนวโน้มและปัจจัยเสี่ยง
 
-### กราฟแสดงจำนวนผู้ที่เป็นเป็นโรคเบาหวานและไม่เป็นเบาหวาน
+## กราฟแสดงจำนวนผู้ที่เป็นเป็นโรคเบาหวานและไม่เป็นเบาหวาน
 
 ![Diabetes Distribution](images/diabetes_distribution.png)
 
@@ -51,9 +51,9 @@
 - ผู้ที่ไม่เป็นโรคเบาหวาน (Diabetes = 0) มีจำนวน 269 คน คิดเป็น 67% ของข้อมูลทั้งหมด
 - ผู้ที่เป็นโรคเบาหวาน (Diabetes = 1) มีจำนวน 132 คน คิดเป็น 33% ของข้อมูลทั้งหมด
 
-### กราฟแสดงการเปรียบเทียบค่ามัธยฐาน (Median) ของแต่ละ feature
+## กราฟแสดงการเปรียบเทียบค่ามัธยฐาน (Median) ของแต่ละ feature
 
-![Glucose Plot](images/glucose_plot.png)
+![Glucose Plot](images/MedianFeatureValuesByDiabetes.png)
 
 เปรียบเทียบค่ามัธยฐาน (Median) ของแต่ละ feature โดยแบ่งตามกลุ่มตัวอย่าง Diabetes
 
